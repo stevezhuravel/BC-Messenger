@@ -1,8 +1,11 @@
 //super class of so we can manipulae Accounts
 public class Account{
-  String fname="";
-  String lname="";
-  String empilid="";
+  private String firstName;
+  private String lastName;
+  private String emplID;
+  private Strig phoneNumber;
+  private String email;
+  private Address address;
 
   public Account(){
 

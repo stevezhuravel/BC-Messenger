@@ -4,5 +4,8 @@ public class Messenger{
 
      System.out.println("Password is: " + new Password());
 
+     Address address1 = new Address();
+     System.out.println(address1);
+
    }
 }
